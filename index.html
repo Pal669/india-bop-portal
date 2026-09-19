@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>India BoP Portal</title>
+<meta name="description" content="India's Balance of Payments: exports, imports, current account, capital flows, and who owns India's assets. Live official data refreshed daily.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f3864'/%3E%3Cpath d='M6 22l6-8 5 5 9-11' stroke='%23fff' stroke-width='3' fill='none'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1>India Balance of Payments</h1>
+    <p class="sub" id="asof">Loading&hellip;</p>
+  </div>
+  <nav class="wrap tabs" id="tabs" role="tablist" aria-label="Sections"></nav>
+</header>
+<main class="wrap" id="view" aria-live="polite"></main>
+<footer class="wrap foot">
+  <p>Analysis layer: curated workbook (<span id="srcfile"></span>), figures in USD billion unless stated. Live layer: World Bank and RBI feeds, refreshed automatically.
+  For information only, not investment advice.</p>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
