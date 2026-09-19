@@ -59,3 +59,7 @@ tr.note td{color:var(--muted);font-style:italic}
   .grid2{grid-template-columns:1fr}
   td:first-child{min-width:150px}
 }
+
+.top{padding-top:env(safe-area-inset-top)}
+.foot{padding-bottom:calc(30px + env(safe-area-inset-bottom))}
+html,body{overflow-x:clip}.cards>*,.grid2>*{min-width:0}
