@@ -276,8 +276,8 @@
   }
  },
  "rbi_watch": {
-  "error": "HTTP Error 418: Unknown Code",
+  "feed": "https://www.rbi.org.in/pressreleases_rss.xml",
   "items": []
  },
- "fetched_at": "2026-09-27 09:28 UTC"
+ "fetched_at": "2026-09-28 10:07 UTC"
 }
