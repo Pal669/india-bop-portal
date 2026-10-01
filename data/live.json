@@ -277,7 +277,18 @@
  },
  "rbi_watch": {
   "feed": "https://www.rbi.org.in/pressreleases_rss.xml",
-  "items": []
+  "items": [
+   {
+    "title": "India’s International Investment Position (IIP), June 2026",
+    "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63701",
+    "date": "Wed, 30 Sep 2026 17:35:00"
+   },
+   {
+    "title": "India’s External Debt as at the end of June 2026",
+    "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63700",
+    "date": "Wed, 30 Sep 2026 17:30:00"
+   }
+  ]
  },
- "fetched_at": "2026-09-28 10:07 UTC"
+ "fetched_at": "2026-10-01 10:24 UTC"
 }
