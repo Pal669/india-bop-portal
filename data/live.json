@@ -277,7 +277,13 @@
  },
  "rbi_watch": {
   "feed": "https://www.rbi.org.in/pressreleases_rss.xml",
-  "items": []
+  "items": [
+   {
+    "title": "Developments in India’s Balance of Payments for the Month of August 2026",
+    "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63813",
+    "date": "Thu, 15 Oct 2026 17:30:00"
+   }
+  ]
  },
- "fetched_at": "2026-10-14 08:59 UTC"
+ "fetched_at": "2026-10-16 08:26 UTC"
 }
