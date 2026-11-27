@@ -277,13 +277,7 @@
  },
  "rbi_watch": {
   "feed": "https://www.rbi.org.in/pressreleases_rss.xml",
-  "items": [
-   {
-    "title": "47th Half-Yearly Report on Management of Foreign Exchange Reserves: April – September 2026",
-    "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64042",
-    "date": "Wed, 25 Nov 2026 18:05:00"
-   }
-  ]
+  "items": []
  },
- "fetched_at": "2026-11-25 13:22 UTC"
+ "fetched_at": "2026-11-27 13:00 UTC"
 }
